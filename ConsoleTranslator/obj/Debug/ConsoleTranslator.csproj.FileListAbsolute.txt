@@ -1,0 +1,13 @@
+c:\users\krks\documents\visual studio 2017\Projects\ConsoleTranslator\ConsoleTranslator\bin\Debug\ConsoleTranslator.exe.config
+c:\users\krks\documents\visual studio 2017\Projects\ConsoleTranslator\ConsoleTranslator\bin\Debug\ConsoleTranslator.exe
+c:\users\krks\documents\visual studio 2017\Projects\ConsoleTranslator\ConsoleTranslator\bin\Debug\ConsoleTranslator.pdb
+c:\users\krks\documents\visual studio 2017\Projects\ConsoleTranslator\ConsoleTranslator\obj\Debug\ConsoleTranslator.csprojResolveAssemblyReference.cache
+c:\users\krks\documents\visual studio 2017\Projects\ConsoleTranslator\ConsoleTranslator\obj\Debug\ConsoleTranslator.exe
+c:\users\krks\documents\visual studio 2017\Projects\ConsoleTranslator\ConsoleTranslator\obj\Debug\ConsoleTranslator.pdb
+C:\Users\Heinrich Himmler\Desktop\programowanie\praktyki\ConsoleTranslator\ConsoleTranslator\bin\Debug\ConsoleTranslator.exe.config
+C:\Users\Heinrich Himmler\Desktop\programowanie\praktyki\ConsoleTranslator\ConsoleTranslator\bin\Debug\ConsoleTranslator.exe
+C:\Users\Heinrich Himmler\Desktop\programowanie\praktyki\ConsoleTranslator\ConsoleTranslator\bin\Debug\ConsoleTranslator.pdb
+C:\Users\Heinrich Himmler\Desktop\programowanie\praktyki\ConsoleTranslator\ConsoleTranslator\obj\Debug\ConsoleTranslator.csprojResolveAssemblyReference.cache
+C:\Users\Heinrich Himmler\Desktop\programowanie\praktyki\ConsoleTranslator\ConsoleTranslator\obj\Debug\ConsoleTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Heinrich Himmler\Desktop\programowanie\praktyki\ConsoleTranslator\ConsoleTranslator\obj\Debug\ConsoleTranslator.exe
+C:\Users\Heinrich Himmler\Desktop\programowanie\praktyki\ConsoleTranslator\ConsoleTranslator\obj\Debug\ConsoleTranslator.pdb
